@@ -1,0 +1,11 @@
+.container{
+    /* background-color: aquamarine; */
+}
+
+.container .row-one{
+    /* background-color: lightslategrey; */
+}
+
+.bg{
+    border: 1px solid;
+}
